@@ -2,7 +2,7 @@
 - 👀 I’m interested in blockchains,machine learning, webdev,gamedev.
 - 🌱 I’m currently learning angular,aws,Artificial Intelligence.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me jeanbernardyvarnel.com
 
 <!---
 ArnelXI/ArnelXI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
